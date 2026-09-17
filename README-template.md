@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [AI Collaboration](#ai-collaboration)
   - [Author](#author)
 
 ### Screenshot
@@ -18,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/spaceeboy/QR-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
